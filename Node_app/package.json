@@ -1,0 +1,15 @@
+{
+  "name": "simple_server_app",
+  "version": "1.0.0",
+  "description": "To practise using npm to create simple server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Server",
+    "node"
+  ],
+  "author": "Martins Aloba",
+  "license": "MIT"
+}
